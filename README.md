@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .Net Web Apis and microservices<br>🌱 I’m currently learning blazor and front-end development<br>💬 Ask me about Web apis, microservices and chatbots<br>⚡ Fun fact, i know a lot about automotive mechanics 😅😅
+🔭 I’m currently working on .Net Web Apis and microservices<br>💬 Ask me about Web apis, microservices and chatbots<br>⚡ Fun fact, i know a lot about automotive mechanics 😅😅
 
 
 ## 🌐 Socials:
